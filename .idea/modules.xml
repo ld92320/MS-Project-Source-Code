@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MS-Project-Source-Code.iml" filepath="$PROJECT_DIR$/.idea/MS-Project-Source-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Source-Code/Source-Code.iml" filepath="$PROJECT_DIR$/Source-Code/Source-Code.iml" />
+    </modules>
+  </component>
+</project>
